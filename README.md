@@ -1,3 +1,3 @@
-# juego_de_la_vida_js
+# Juego de la vida en JS
 
 ![](./sc.png)
